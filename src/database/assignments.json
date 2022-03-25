@@ -1,0 +1,24 @@
+[
+  {
+    "due_date": "Sat Jan 01 22:00:00 ICT 2022",
+    "students": [
+      {
+        "send_date": null,
+        "work": null,
+        "id": "60050176"
+      },
+      {
+        "send_date": null,
+        "work": null,
+        "id": "60050177"
+      },
+      {
+        "send_date": null,
+        "work": null,
+        "id": "60050178"
+      }
+    ],
+    "title": "qwer",
+    "desc": "asdf"
+  }
+]
